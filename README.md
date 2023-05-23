@@ -1,5 +1,6 @@
-Love Code for Valentine 💖
+Love Is Love 💖
 ============================
+![all-that-you-will-be](https://github.com/emohamedd/love_you/assets/102475281/1a150253-47d1-47ea-a9d0-4ded9d553d5f)
 
 The Love Code for Valentine is a romantic C program that allows you to express your love in a unique and affectionate way. It prompts you to enter your name and rate your love on a scale of 1 to 10. Based on your input, it generates a heartfelt message filled with love and devotion.
 
